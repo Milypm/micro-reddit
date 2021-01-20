@@ -4,6 +4,7 @@
 > In this project we created an application using Ruby on Rails based on [Reddit' site](https://www.reddit.com/), including the model structure and associations between the models.
 - Consists of three models: User, Post, and Comment.
 - A user is allowed to create a post, and add comments into Post and Comment models.
+- Works in the console (irb), it doesn't have a front-end interface.
 
 ## Built With
 - Ruby (v. 2.7.2)
